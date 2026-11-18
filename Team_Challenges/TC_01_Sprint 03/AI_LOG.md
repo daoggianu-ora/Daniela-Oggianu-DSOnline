@@ -32,3 +32,28 @@ Copiad este bloque por cada prompt que haya influido en vuestro código.
 - **Cambios:** qué modificasteis y por qué.
 - **Comprobación:** cómo verificasteis que funcionaba.
 - **Decisión propia:** qué decidisteis vosotros.
+
+### variables.py · Prompt 1
+
+- **Objetivo:** estructurar la base del juego.
+- **Prompt:** Tengo que estructurar la base del juego. Sin pasarme la solucion, ayudame a crearla paso paso.
+- **Respuesta relevante:** piensa en qué elementos fijos necesitas. ¿Cómo definirías tú en Python la constante para guardar el tamaño del tablero (por ejemplo, usando una variable en mayúsculas)? ¡Intenta escribir esa primera línea!
+- **Cambios:** -
+- **Comprobación:** -
+- **Decisión propia:** escribir elenco de las variables con los datos fijos.
+
+### variables.py · Prompt 2 
+
+- **Objetivo:** lectura fluyda de la estructura.
+- **Prompt:** como se ve una base bien estructurada?
+- **Respuesta relevante:** idea de su aspecto "anatómico":
+
+# ==========================================
+# 1. CONFIGURACIÓN DEL TABLERO
+# ==========================================
+# Aquí defines el tamaño de la cuadrícula
+# NOMBRE_DE_VARIABLE = valor
+
+- **Cambios:** he modificado las variables con los datos reales
+- **Comprobación:** -
+- **Decisión propia:** ninguna
